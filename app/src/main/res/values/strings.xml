@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoogleTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name = "loading">Loading</string>
+    <string name = "search"> Поиск </string>
+    <string name = "clear_search"> Очистить </string>
+    <string name="search_hint">Search Picture</string>
+    <string name = "empty_search">Start querying Google</string>
+    <string name = "empty_favorite">You dont have favorite image</string>
+</resources>
