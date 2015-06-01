@@ -22,3 +22,6 @@ Google Search.
 
 Для реализация зума картинок используется библиотека :
 https://github.com/chrisbanes/PhotoView
+
+Для загрузки картинок используется библиотека :
+https://github.com/nostra13/Android-Universal-Image-Loader
